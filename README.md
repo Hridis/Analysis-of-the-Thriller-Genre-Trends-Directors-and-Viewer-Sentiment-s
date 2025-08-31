@@ -25,7 +25,7 @@ Movie titles,Subgenres,Directors,Revenue figures,User review ratings and sentime
 The data was processed using Python libraries such as pandas, matplotlib to clean and analyze data.
 
 # Dashboard
-![Thriller Genre Dashboard](https://github.com/Hridis/A-Comprehensive-Analysis-of-the-Thriller-Genre-Trends-Directors-and-Viewer-Sentiment-s/blob/master/Dashboard%201.png)
+![Thriller Genre Dashboard](https://github.com/Hridis/Analysis-of-the-Thriller-Genre-Trends-Directors-and-Viewer-Sentiment-s/blob/main/Dashboard%201.png)
 
 Tableu public view: [Click here](https://public.tableau.com/views/Book1_17565749848580/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
