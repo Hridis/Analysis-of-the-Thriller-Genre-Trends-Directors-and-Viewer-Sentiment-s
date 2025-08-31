@@ -61,4 +61,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ### 4.Check the scrapped data
-
+```bash
+https://github.com/Hridis/Analysis-of-the-Thriller-Genre-Trends-Directors-and-Viewer-Sentiment-s/blob/main/movie%20data.csv
+```
