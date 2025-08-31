@@ -38,8 +38,10 @@ Subgenres like Mystery and Supernatural Thriller show significant growth in user
 3. Revenue Trends: Thriller movies, especially those directed by big names, show a significant rise in revenue over the years, with certain subgenres like Action Thrillers and Crime Thrillers being particularly successful.
 
 4. Viewer Sentiment: Viewer sentiment analysis shows that thriller movies such as Inception, The Dark Knight, and Fargo receive overwhelmingly positive reviews.Negative sentiments are often found in less popular thrillers.
+5. TV Shows vs. Movies in the Thriller Genre: A comparison graph showing the average number of thriller movies and series, with movies being significantly more common but series has more average user review numbers and star rating.
 
-5. Rising Budgets and Box Office Earnings: Budgets for thriller movies have steadily increased, with a corresponding rise in box office earnings, especially post-2000.
+6. Rising Budgets and Box Office Earnings: Budgets for thriller movies have steadily increased, with a corresponding rise in box office earnings, especially post-2000.
+7. Review and Star Rating Analysis: This chart breaks down reviews by the number of reviews and star ratings for popular thriller movies, highlighting titles such as The Dark Knight and Joker.
 
 ## Build From Sources
 
